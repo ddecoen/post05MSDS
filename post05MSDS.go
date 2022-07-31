@@ -1,4 +1,4 @@
-package post05MSDS
+package post05
 
 import (
 	"database/sql"
