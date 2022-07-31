@@ -8,7 +8,7 @@ DROP TABLE IF EXISTS MSDSCourseCatalog;
 
 CREATE TABLE Users (
     ID SERIAL,
-    Username VARCHAR(100) PRIMARY KEY
+    Username2 VARCHAR(100) PRIMARY KEY
 );
 
 CREATE TABLE MSDSCourseCatalog (
